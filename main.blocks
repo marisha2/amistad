@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="BGp+N,3DlrTZ@%jmifRS" x="-551" y="-3"/><block type="device_forever" id="E)SV1hO7Lu62KCf_YN@B" x="-283" y="-4"><statement name="HANDLER"><block type="device_show_leds" id="tnb%c7ChX{bmg}X_+1yd"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="E)SV1hO7Lu62KCf_YN@B" x="-283" y="-4"><statement name="HANDLER"><block type="device_show_leds" id="tnb%c7ChX{bmg}X_+1yd"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # # # # # 
